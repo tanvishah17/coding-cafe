@@ -22,7 +22,7 @@ README.md moved from Untracked files to Changes to be committed. In the three-pl
 Git created the first commit and reported 5 files changed, 88 insertions(+)
 
 ## Question 8
-The first seven characters are a935e46. They are the shortened version of the commit’s unique commit hash (SHA), which identifies that specific commit.
+The first seven characters are a935e46. They are the shortened version of the commit’s unique commit hash (SHA), which identifies that specific commit. 
 
 ## Question 9
 ## Question 10
