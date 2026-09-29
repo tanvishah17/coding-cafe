@@ -25,8 +25,22 @@ Git created the first commit and reported 5 files changed, 88 insertions(+)
 The first seven characters are a935e46. They are the shortened version of the commit’s unique commit hash (SHA), which identifies that specific commit. 
 
 ## Question 9
+1. Edit the files
+2. Stage changes with git add
+3. Commit them with git commit
+4. Repeat the cycle for future changes
+
 ## Question 10
+README.md has a special name and location because GitHub and other developers recognize it as the repository’s main introductory/documentation file. It is automatically displayed on the repository’s front page, so readers can quickly understand what the project is and what it contains.
+
 ## Question 11
+gh auth login authenticated my GitHub account and stored credentials/token information locally, allowing Git to authenticate when pushing without asking for my GitHub password each time.
+
 ## Question 12
+README.md is showing on the front page, rendered as formatted text. GitHub displays README.md on the repository’s front page because it is the standard file for introducing and documenting a repository
+
 ## Question 13
+No. Pushing did not change my local history. It copied my existing commits from my local repository to GitHub.
+
 ## Question 14
+A private repository exists on GitHub, but only the owner and people who have been given access can view it. A repository that does not exist on GitHub has no online copy at all, so nobody can access it there.
