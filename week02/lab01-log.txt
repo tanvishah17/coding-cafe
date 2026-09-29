@@ -1,0 +1,16 @@
+   64  pip list
+   65  pip install requests
+   66  pip list
+   67  deactivate
+   68  which python3
+   69  man ls
+   70  man ls
+   71  ls -h
+   72  man -ls
+   73  man ls
+   74  ls -h
+   75  man man
+   76  cd cod
+   77  history
+   78  python3
+   79  python3
